@@ -1,91 +1,109 @@
-## PDF Merger Lite  
-**Combine Your PDFs in Seconds!**  
-The fastest, simplest, and most secure way to merge PDF files on Windows.
+## 📋 EasyClipboardManager  
+**Never Lose Important Copy-Paste Data Again!**  
+Access your clipboard history effortlessly with EasyClipboardManager, the ultimate clipboard management tool for Windows.
 
 ---
 
 ## 📥 **Download Now**  
-[**Download PDF Merger Lite**](https://pdfmergerlite.com/)
+[**Download Free Clipboard Manager**](https://easyclipboardmanager.com/)
 
 ---
 
 ## 📋 **Overview**  
-PDF Merger Lite is a free and lightweight tool for Windows, designed to help you merge multiple PDF files quickly and effortlessly. With an intuitive drag-and-drop interface, lightning-fast processing, and robust security, it’s the ultimate solution for PDF merging.
+EasyClipboardManager is a lightweight and secure tool for managing your clipboard history on Windows. With extensive features like history retrieval, advanced search, and customizable shortcut keys, it boosts productivity and ensures you never lose important copied content.
 
 ---
 
 ## 🔧 **Features**
 
-- **📁 Drag & Drop:** Simply drag and drop your PDF files into the app.  
-- **⚡ Lightning Fast:** Merge PDFs in seconds, no matter the size.  
-- **🔀 Reorder Files:** Arrange PDFs in the desired order before merging.  
-- **🔒 Secure:** Your files never leave your computer, ensuring full privacy.  
-- **🛡️ Quality Preservation:** Maintains the quality of your original PDFs.  
+- **🗂 Clipboard History:**  
+  Access and retrieve your clipboard history, including text and images.  
+
+- **🔍 Powerful Search:**  
+  Quickly locate specific items in your clipboard history with an intuitive search tool.  
+
+- **⌨️ Shortcut Key Integration:**  
+  Customize keyboard shortcuts for faster access to clipboard data.  
+
+- **🕒 Retention Customization:**  
+  Configure how long your clipboard history is saved, from days to months.  
+
+- **🗑 Delete Entries:**  
+  Easily delete individual clipboard entries or clear the entire history.  
+
+- **🔒 Secure Storage:**  
+  Advanced encryption ensures your clipboard data is safely stored locally.  
+
+- **⚙️ Lightweight and Efficient:**  
+  Designed to run quietly in the background with minimal impact on system performance.  
+
+- **📋 Cross-App Compatibility:**  
+  Works seamlessly with all applications on your Windows system.  
 
 ---
 
 ## 🛠️ **How It Works**
 
 1. **Download and Install:**  
-   - Click the [Download PDF Merger Lite](https://pdfmergerlite.com/) button to install the tool.  
+   - Click the [Download Free Clipboard Manager](https://easyclipboardmanager.com/) button to install EasyClipboardManager.  
 
 2. **Launch the Application:**  
-   - Open PDF Merger Lite after installation.  
+   - Open the tool and explore the easy-to-use interface.  
 
-3. **Drag and Drop:**  
-   - Drag your PDF files into the app interface.  
+3. **Copy & Store:**  
+   - Continue copying text and images as usual, and EasyClipboardManager will save them automatically.  
 
-4. **Reorder Files (Optional):**  
-   - Use the interface to reorder files as needed.  
+4. **Access Clipboard History:**  
+   - Use the interface or shortcut keys to view and retrieve your clipboard history.  
 
-5. **Click 'Merge PDFs':**  
-   - Hit the **Merge PDFs** button to combine your files.  
+5. **Search & Manage:**  
+   - Use the search functionality to find specific items or delete unnecessary entries.  
 
-6. **Save Your File:**  
-   - Choose a location to save your newly merged PDF.  
+6. **Customize Settings:**  
+   - Adjust retention periods and shortcut keys to suit your preferences.  
 
 ---
 
 ## ❓ **Frequently Asked Questions**
 
-### **How do I merge multiple PDF files?**  
-Drag and drop your PDFs into the app, arrange them as needed, and click **Merge PDFs**.  
+### **Can I view my clipboard history?**  
+Yes, EasyClipboardManager allows you to access your entire clipboard history easily.  
 
-### **Is there a limit to how many PDFs I can merge?**  
-No, PDF Merger Lite supports merging as many PDFs as your system can handle.  
+### **How do I access previously copied items?**  
+Use the interface or customizable shortcut keys to retrieve clipboard data.  
 
-### **Does the software preserve the quality of PDFs?**  
-Yes, the tool ensures the quality of your original PDFs is preserved.  
+### **Does the tool save text and images?**  
+Yes, it supports both text and image content.  
 
-### **Is this tool free to use?**  
-Absolutely! PDF Merger Lite is completely free.  
+### **Can I search through the clipboard history?**  
+Absolutely! The advanced search functionality helps you quickly locate specific items.  
 
-### **How quickly can I merge large PDFs?**  
-The merging process is lightning-fast, even for large files.  
+### **How long does the clipboard history stay saved?**  
+You can customize the retention period to save data for days, weeks, or months.  
 
-### **Can I reorder the PDFs before merging?**  
-Yes, you can drag and drop to rearrange files in the desired order.  
+### **Is there a way to delete specific clipboard entries?**  
+Yes, you can delete individual entries or clear your entire clipboard history.  
 
-### **Does it support password-protected PDFs?**  
-Password-protected PDFs require entering the correct password before merging.  
+### **Does it affect system performance?**  
+No, EasyClipboardManager is lightweight and optimized for minimal system impact.  
 
-### **Is the output PDF size compressed?**  
-No, the merged PDF retains the original quality without compression.  
+### **Can I use this tool to copy and paste between apps?**  
+Yes, it works seamlessly across all Windows applications.  
 
-### **Can I merge PDFs on Windows without Adobe Acrobat?**  
-Yes, PDF Merger Lite provides a lightweight, standalone solution for merging PDFs.  
+### **Does it work with shortcut keys?**  
+Yes, it integrates with existing shortcuts and allows custom key assignments for quick access.  
 
-### **How do I download the merged PDF?**  
-After merging, simply choose where to save your file on your PC.  
+### **Is it safe to store clipboard history?**  
+Yes, your clipboard data is encrypted and securely stored on your local machine.  
 
 ---
 
 ## 📜 **License**  
-© 2023 PDF Merger Lite. All rights reserved.  
+© 2024 EasyClipboardManager. All rights reserved.  
 
 ---
 
 ## 📬 **Support**  
-For help, feature requests, or feedback, contact us at support@pdfmergerlite.com.  
+For help, feedback, or feature requests, contact us at support@easyclipboardmanager.com.  
 
-**Merge your PDFs fast, free, and securely with PDF Merger Lite!**
+**Start managing your clipboard effortlessly with EasyClipboardManager today!** 🗂️
